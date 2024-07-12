@@ -3,7 +3,7 @@
 
 
 
-Hello everyone 👋 , I would like to share with you the final project of the Python training I received within the scope of data analysis training.
+Hello everyone 👋 , I would like to share with you the final project of the Python training I received within the scope of data analysis training.In this project I used Jupyter Notebook.
 
 In this training I've learned;
 
